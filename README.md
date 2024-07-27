@@ -28,4 +28,12 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Eshitacodes/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Eshitacodes/LEETCODE/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Eshitacodes/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
