@@ -36,4 +36,12 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eshitacodes/LEETCODE/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Eshitacodes/LEETCODE/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Eshitacodes/LEETCODE/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
