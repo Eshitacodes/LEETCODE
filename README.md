@@ -7,6 +7,7 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshitacodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,6 +16,7 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -44,4 +46,17 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Eshitacodes/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
