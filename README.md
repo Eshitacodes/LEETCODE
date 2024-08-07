@@ -6,6 +6,7 @@ This repository contains my solutions of LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/0039-combination-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshitacodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -59,4 +60,8 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
