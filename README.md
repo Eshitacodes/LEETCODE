@@ -21,6 +21,7 @@ This repository contains my solutions of LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Eshitacodes/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Eshitacodes/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
@@ -30,6 +31,7 @@ This repository contains my solutions of LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Eshitacodes/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Eshitacodes/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
@@ -51,6 +53,7 @@ This repository contains my solutions of LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Eshitacodes/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
