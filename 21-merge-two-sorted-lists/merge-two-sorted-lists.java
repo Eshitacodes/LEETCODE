@@ -16,29 +16,43 @@ class Solution
             return list2;
         if(list2==null)
             return list1;
-        if(list1.val>list2.val)
+
+        ListNode travel;
+        if(list1.val<list2.val)
         {
-            ListNode temp=list1;
-            list1=list2;
-            list2=temp;
+            travel=list1;
+            list1=list1.next;
         }
-        ListNode res=list1;
+        else
+        {
+            travel=list2;
+            list2=list2.next;
+        }
+        ListNode dummyHead=travel;
         
         while(list1!=null && list2!=null)
         {
-            ListNode temp=null;
-            while(list1!=null && list1.val<=list2.val)
+            if(list1.val<list2.val)
             {
-                temp=list1;
+                travel.next=list1;
+                travel=list1;
                 list1=list1.next;
             }
-            temp.next=list2;
-            ListNode swap=list1;
-            list1=list2;
-            list2=swap;
+
+            else
+            {
+                travel.next=list2;
+                travel=list2;
+                list2=list2.next;
+            }
 
         }
 
-        return res;
+        if(list1!=null)
+            travel.next=list1;
+        if(list2!=null)
+            travel.next=list2;
+
+        return dummyHead;
     }
 }
