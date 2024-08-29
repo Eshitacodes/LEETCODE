@@ -20,7 +20,7 @@ class Solution {
      if(curr==null)
         return null;
 
-        invertTree(curr.left);  
+     invertTree(curr.left);  
      invertTree(curr.right);  
      TreeNode temp=curr.left;
      curr.left=curr.right;
