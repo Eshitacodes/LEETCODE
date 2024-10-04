@@ -10,6 +10,7 @@ This repository contains my solutions of LeetCode problems.
 | [0039-combination-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/0039-combination-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshitacodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Eshitacodes/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Eshitacodes/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Linked List
 |  |
 | ------- |
@@ -30,6 +32,7 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Eshitacodes/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +70,7 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Eshitacodes/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Backtracking
 |  |
 | ------- |
