@@ -44,6 +44,7 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eshitacodes/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Eshitacodes/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2580-circular-sentence](https://github.com/Eshitacodes/LEETCODE/tree/master/2580-circular-sentence) |
 ## Stack
 |  |
 | ------- |
