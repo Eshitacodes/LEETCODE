@@ -1,7 +1,7 @@
 class Solution {
     public String compressedString(String word) 
     {
-     String comp="";
+     StringBuilder comp=new StringBuilder("");
      int arr[]=new int[26];
      int count=1;
      int i;
@@ -16,11 +16,13 @@ class Solution {
             while(count>0)
             {
                 if(count<10)
-                    comp=comp+ count +word.charAt(i);
+                    // comp=comp+ count +word.charAt(i);
+                    comp.append(count).append(word.charAt(i));
             
                 else
                 {
-                    comp=comp+9+word.charAt(i);
+                    // comp=comp+9+word.charAt(i);
+                    comp.append(9).append(word.charAt(i));
                 }
 
                 count-=9;
@@ -33,11 +35,13 @@ class Solution {
      while(count>0)
             {
                 if(count<10)
-                    comp=comp+ count +word.charAt(i);
+                    comp.append(count).append(word.charAt(i));
+                    // comp=comp+ count +word.charAt(i);
             
                 else
                 {
-                    comp=comp+9+word.charAt(i);
+                    // comp=comp+9+word.charAt(i);
+                    comp.append(9).append(word.charAt(i));
                 }
 
                 count-=9;
@@ -45,7 +49,7 @@ class Solution {
 
     //  comp=comp+ count+word.charAt(i);
 
-     return comp;
+     return comp.toString();
 
     }
 }
