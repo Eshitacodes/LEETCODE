@@ -11,6 +11,7 @@ This repository contains my solutions of LeetCode problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshitacodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Eshitacodes/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Eshitacodes/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Eshitacodes/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Eshitacodes/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Eshitacodes/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Eshitacodes/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
 | ------- |
