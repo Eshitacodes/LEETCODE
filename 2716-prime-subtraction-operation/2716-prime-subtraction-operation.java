@@ -6,7 +6,7 @@ class Solution {
         Arrays.fill(sieve,true);
 
         sieve[0]=false;
-        sieve[1]=false;
+        // sieve[1]=false;
 
         for(int i=2;i*i<1000;i++)
         {
