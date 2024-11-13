@@ -14,6 +14,7 @@ This repository contains my solutions of LeetCode problems.
 | [2179-most-beautiful-item-for-each-query](https://github.com/Eshitacodes/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Eshitacodes/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Eshitacodes/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Eshitacodes/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Eshitacodes/LEETCODE/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Eshitacodes/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Eshitacodes/LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -40,6 +41,7 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Eshitacodes/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Eshitacodes/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -85,6 +87,7 @@ This repository contains my solutions of LeetCode problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/Eshitacodes/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Eshitacodes/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Eshitacodes/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Eshitacodes/LEETCODE/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
@@ -92,6 +95,7 @@ This repository contains my solutions of LeetCode problems.
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Eshitacodes/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Eshitacodes/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Eshitacodes/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Eshitacodes/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
