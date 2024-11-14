@@ -33,7 +33,8 @@ class Solution {
     {
         for(int proQuant:quantities)
         {
-            store-=(proQuant+ prodPerShop-1)/prodPerShop;
+            // store-=(proQuant+ prodPerShop-1)/prodPerShop;
+            store-=Math.ceil((double)proQuant/prodPerShop);
 
             if(store<0)
                 return false;
