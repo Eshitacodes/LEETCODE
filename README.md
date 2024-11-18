@@ -12,6 +12,7 @@ This repository contains my solutions of LeetCode problems.
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Eshitacodes/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Eshitacodes/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1755-defuse-the-bomb](https://github.com/Eshitacodes/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/Eshitacodes/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Eshitacodes/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Eshitacodes/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -154,6 +155,7 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Eshitacodes/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/Eshitacodes/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Eshitacodes/LEETCODE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Eshitacodes/LEETCODE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
