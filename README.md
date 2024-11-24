@@ -16,6 +16,7 @@ This repository contains my solutions of LeetCode problems.
 | [1755-defuse-the-bomb](https://github.com/Eshitacodes/LEETCODE/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/Eshitacodes/LEETCODE/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Eshitacodes/LEETCODE/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Eshitacodes/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Eshitacodes/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Eshitacodes/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -172,6 +173,7 @@ This repository contains my solutions of LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [2089-maximum-matrix-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [2716-prime-subtraction-operation](https://github.com/Eshitacodes/LEETCODE/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
@@ -198,6 +200,7 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Eshitacodes/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Eshitacodes/LEETCODE/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Eshitacodes/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
