@@ -22,6 +22,7 @@ This repository contains my solutions of LeetCode problems.
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Eshitacodes/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Eshitacodes/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Eshitacodes/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Eshitacodes/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Eshitacodes/LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Eshitacodes/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Eshitacodes/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -144,6 +145,7 @@ This repository contains my solutions of LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/Eshitacodes/LEETCODE/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Eshitacodes/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Eshitacodes/LEETCODE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
@@ -195,6 +197,7 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Eshitacodes/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Eshitacodes/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -207,6 +210,7 @@ This repository contains my solutions of LeetCode problems.
 | [1972-rotating-the-box](https://github.com/Eshitacodes/LEETCODE/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Eshitacodes/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Eshitacodes/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Simulation
 |  |
 | ------- |
@@ -214,6 +218,11 @@ This repository contains my solutions of LeetCode problems.
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Eshitacodes/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Eshitacodes/LEETCODE/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Eshitacodes/LEETCODE/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Eshitacodes/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
