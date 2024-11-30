@@ -139,6 +139,7 @@ This repository contains my solutions of LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Eshitacodes/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@ This repository contains my solutions of LeetCode problems.
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Eshitacodes/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Eshitacodes/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Eshitacodes/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Eshitacodes/LEETCODE/tree/master/3189-find-champion-ii) |
@@ -231,4 +233,8 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Eshitacodes/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Eshitacodes/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Eshitacodes/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
