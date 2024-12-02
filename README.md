@@ -60,6 +60,7 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Eshitacodes/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Eshitacodes/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Eshitacodes/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Eshitacodes/LEETCODE/tree/master/1972-rotating-the-box) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Eshitacodes/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -76,6 +77,7 @@ This repository contains my solutions of LeetCode problems.
 | [0020-valid-parentheses](https://github.com/Eshitacodes/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0812-rotate-string](https://github.com/Eshitacodes/LEETCODE/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Eshitacodes/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Eshitacodes/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2580-circular-sentence](https://github.com/Eshitacodes/LEETCODE/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Eshitacodes/LEETCODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Eshitacodes/LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -166,6 +168,7 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Eshitacodes/LEETCODE/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Eshitacodes/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Counting
 |  |
 | ------- |
