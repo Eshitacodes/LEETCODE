@@ -8,7 +8,7 @@ class Solution {
 
      for(int i=0;i<s.length();i++)
      {
-        if(k<spaces.length && spaces[k]<s.length() && i==spaces[k])
+        if(k<spaces.length && i==spaces[k])
         {
             str.append(" ");
             k++;
