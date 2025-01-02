@@ -9,6 +9,7 @@ This repository contains my solutions of LeetCode problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/Eshitacodes/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/0039-combination-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshitacodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Eshitacodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [0787-sliding-puzzle](https://github.com/Eshitacodes/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Eshitacodes/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -42,6 +43,7 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Eshitacodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Eshitacodes/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Eshitacodes/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -127,6 +129,7 @@ This repository contains my solutions of LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Eshitacodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Eshitacodes/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Eshitacodes/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
