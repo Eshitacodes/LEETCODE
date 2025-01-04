@@ -8,6 +8,7 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Eshitacodes/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Eshitacodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshitacodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Eshitacodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Eshitacodes/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -39,6 +40,7 @@ This repository contains my solutions of LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Eshitacodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshitacodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -98,6 +100,7 @@ This repository contains my solutions of LeetCode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Eshitacodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Eshitacodes/LEETCODE/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
