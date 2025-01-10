@@ -15,6 +15,7 @@ This repository contains my solutions of LeetCode problems.
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [0787-sliding-puzzle](https://github.com/Eshitacodes/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Eshitacodes/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/Eshitacodes/LEETCODE/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Eshitacodes/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Eshitacodes/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Eshitacodes/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -48,6 +49,7 @@ This repository contains my solutions of LeetCode problems.
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Eshitacodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
+| [0952-word-subsets](https://github.com/Eshitacodes/LEETCODE/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Eshitacodes/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Eshitacodes/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Eshitacodes/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -86,6 +88,7 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eshitacodes/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0812-rotate-string](https://github.com/Eshitacodes/LEETCODE/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/Eshitacodes/LEETCODE/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Eshitacodes/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Eshitacodes/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Eshitacodes/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
