@@ -157,6 +157,7 @@ This repository contains my solutions of LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ This repository contains my solutions of LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Eshitacodes/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
 ## Breadth-First Search
 |  |
@@ -184,9 +186,11 @@ This repository contains my solutions of LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Eshitacodes/LEETCODE/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Eshitacodes/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Counting
@@ -267,4 +271,8 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Eshitacodes/LEETCODE/tree/master/2201-valid-arrangement-of-pairs) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
