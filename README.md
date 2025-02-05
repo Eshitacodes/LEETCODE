@@ -8,6 +8,7 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Eshitacodes/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Eshitacodes/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Eshitacodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshitacodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Eshitacodes/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -121,6 +122,7 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Eshitacodes/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Eshitacodes/LEETCODE/tree/master/0048-rotate-image) |
 | [0223-rectangle-area](https://github.com/Eshitacodes/LEETCODE/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [2716-prime-subtraction-operation](https://github.com/Eshitacodes/LEETCODE/tree/master/2716-prime-subtraction-operation) |
@@ -243,6 +245,7 @@ This repository contains my solutions of LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Eshitacodes/LEETCODE/tree/master/0048-rotate-image) |
 | [0787-sliding-puzzle](https://github.com/Eshitacodes/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Eshitacodes/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Eshitacodes/LEETCODE/tree/master/1972-rotating-the-box) |
