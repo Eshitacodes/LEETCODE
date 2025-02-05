@@ -121,6 +121,7 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Eshitacodes/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0223-rectangle-area](https://github.com/Eshitacodes/LEETCODE/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [2716-prime-subtraction-operation](https://github.com/Eshitacodes/LEETCODE/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
@@ -275,4 +276,8 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Eshitacodes/LEETCODE/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
