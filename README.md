@@ -15,6 +15,7 @@ This repository contains my solutions of LeetCode problems.
 | [0238-product-of-array-except-self](https://github.com/Eshitacodes/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
 | [0787-sliding-puzzle](https://github.com/Eshitacodes/LEETCODE/tree/master/0787-sliding-puzzle) |
+| [0817-design-hashmap](https://github.com/Eshitacodes/LEETCODE/tree/master/0817-design-hashmap) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Eshitacodes/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/Eshitacodes/LEETCODE/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Eshitacodes/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -50,6 +51,7 @@ This repository contains my solutions of LeetCode problems.
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Eshitacodes/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eshitacodes/LEETCODE/tree/master/0268-missing-number) |
+| [0817-design-hashmap](https://github.com/Eshitacodes/LEETCODE/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/Eshitacodes/LEETCODE/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Eshitacodes/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Eshitacodes/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -65,6 +67,7 @@ This repository contains my solutions of LeetCode problems.
 | [0021-merge-two-sorted-lists](https://github.com/Eshitacodes/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Eshitacodes/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0817-design-hashmap](https://github.com/Eshitacodes/LEETCODE/tree/master/0817-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,8 +282,13 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Eshitacodes/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0817-design-hashmap](https://github.com/Eshitacodes/LEETCODE/tree/master/0817-design-hashmap) |
 ## Geometry
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Eshitacodes/LEETCODE/tree/master/0223-rectangle-area) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Eshitacodes/LEETCODE/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
