@@ -67,6 +67,7 @@ This repository contains my solutions of LeetCode problems.
 | [0021-merge-two-sorted-lists](https://github.com/Eshitacodes/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Eshitacodes/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Eshitacodes/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/Eshitacodes/LEETCODE/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Eshitacodes/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
