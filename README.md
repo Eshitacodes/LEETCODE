@@ -9,6 +9,7 @@ This repository contains my solutions of LeetCode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eshitacodes/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Eshitacodes/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Eshitacodes/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Eshitacodes/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Eshitacodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshitacodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ This repository contains my solutions of LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Eshitacodes/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Eshitacodes/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshitacodes/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -80,6 +82,7 @@ This repository contains my solutions of LeetCode problems.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Eshitacodes/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eshitacodes/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Eshitacodes/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Eshitacodes/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Eshitacodes/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -116,6 +119,7 @@ This repository contains my solutions of LeetCode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eshitacodes/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Eshitacodes/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Eshitacodes/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Divide and Conquer
 |  |
@@ -241,6 +245,7 @@ This repository contains my solutions of LeetCode problems.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Eshitacodes/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Eshitacodes/LEETCODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
 |  |
