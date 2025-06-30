@@ -11,79 +11,73 @@
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) 
     {
-        ListNode p=l1;
-        ListNode q=l2;
+        ListNode p1=l1;
+        ListNode p2=l2;
         int sum=0;
-        int rem=0;
+        int carry=0;
         ListNode start=null;
 
-        while(p!=null && q!=null)
+        while(p1!=null && p2!=null)
         {
-            sum=p.val+q.val+rem;
-
+            sum=p1.val+p2.val+carry;
             if(sum>9)
             {
                 start=insertEnd(sum%10,start);
-                rem=1;
+                carry=1;
+            }
+
+            else
+            {
+                start=insertEnd(sum,start);
+                carry=0;
+            }
+            sum=0;
+            p1=p1.next;
+            p2=p2.next;
+
+        }
+
+        
+        while(p1!=null)
+        {
+            sum=p1.val+carry;
+            if(sum>9)
+            {
+                start=insertEnd(sum%10,start);
+                carry=1;
             }
             else
             {
                 start=insertEnd(sum,start);
-                 rem=0;
+                carry=0;
             }
             sum=0;
-            p=p.next;
-            q=q.next;
-                
+            p1=p1.next;
         }
 
-        if(q!=null)
+        while(p2!=null)
         {
-            while(q!=null)
+            sum=p2.val+carry;
+            if(sum>9)
             {
-                sum=q.val+rem;
-                if(sum>9)
-                {
-                    start=insertEnd(sum%10,start);
-                    rem=1;
-                }
-                else
-                {
-                    start=insertEnd(sum,start);
-                    rem=0;
-                }
-                sum=0;
-                q=q.next;
+                start=insertEnd(sum%10,start);
+                carry=1;
             }
-            
-        }
-
-        if(p!=null)
-        {
-            while(p!=null)
+            else
             {
-                sum=p.val+rem;
-                if(sum>9)
-                {
-                    start=insertEnd(sum%10,start);
-                    rem=1;
-                }
-                else
-                {
-                    start=insertEnd(sum,start);
-                    rem=0;
-                }
-                sum=0;
-                p=p.next;
+                start=insertEnd(sum,start);
+                carry=0;
             }
+           sum=0;
+            p2=p2.next;
         }
 
-        if(rem!=0)
+        if(carry!=0)
         {
-            start=insertEnd(rem,start);
+            start=insertEnd(carry,start);
         }
-
         return start;
+
     }
 
     public static ListNode insertEnd(int val,ListNode start)
