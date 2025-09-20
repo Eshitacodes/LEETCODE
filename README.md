@@ -6,6 +6,7 @@ This repository contains my solutions of LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eshitacodes/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Eshitacodes/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/0039-combination-sum) |
@@ -51,6 +52,7 @@ This repository contains my solutions of LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Eshitacodes/LEETCODE/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Eshitacodes/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Eshitacodes/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Eshitacodes/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
